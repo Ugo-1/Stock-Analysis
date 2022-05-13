@@ -9,6 +9,8 @@ This is a solution to the white belt analyst project. These challenges help you 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Notebooks](#notebooks)
+  - [Excel files](#excel-files)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -24,6 +26,15 @@ This is a solution to the white belt analyst project. These challenges help you 
 ### The challenge
 
 Create a dashboard using any tool of your choice to analyze tech stock (between nvidia, twitter, tesla)
+
+### Notebooks
+Two notebooks were created during the course of this project
+- The [invest](./invest.ipynb) notebook which contains EDA using matplotlib, pandas.
+- The [panel_stock_dashboard](./panel_stock_dashboard.ipynb) which contains the code used to build the dashboard using panel.
+
+### Excel Files
+- All of the data extracted from yahoo finance is contained in the [fin data sheet](./fin_data.xlsx), which can be used for further analysis.
+- The [fin main sheet](./fin_main_sheet.xlsx) solely has the tickers' closing price and volume.
 
 ### Screenshot
 
