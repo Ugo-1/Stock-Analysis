@@ -27,14 +27,14 @@ Create a dashboard using any tool of your choice to analyze tech stock (between 
 
 ### Screenshot
 
-![StockTrend](./Images/Stock_Trend.png)
+![StockTrend](./Images/Stock_Trend.png) 
 ![InvestmentTools](./Images/Investment_Tools.png)
 ![PriceOverTime](./Images/Price_over_Time.png)
 
 
 ### Links
 
-- To view the static dashboard visit [static dashboard](https://paneldashboard.netlify.app)
+- To view the static dashboard visit [dashboard](https://paneldashboard.netlify.app)
 
 ## My process
 
